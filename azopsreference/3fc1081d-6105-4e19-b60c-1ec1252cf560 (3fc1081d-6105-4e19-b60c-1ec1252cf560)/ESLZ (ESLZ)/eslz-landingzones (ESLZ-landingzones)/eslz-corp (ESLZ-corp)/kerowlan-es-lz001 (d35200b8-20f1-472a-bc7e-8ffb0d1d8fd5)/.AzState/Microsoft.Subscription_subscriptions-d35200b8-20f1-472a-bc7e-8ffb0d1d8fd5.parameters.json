@@ -1,0 +1,15 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "input": {
+      "value": {
+        "Type": "/subscriptions",
+        "Id": "/subscriptions/d35200b8-20f1-472a-bc7e-8ffb0d1d8fd5",
+        "Name": "d35200b8-20f1-472a-bc7e-8ffb0d1d8fd5",
+        "DisplayName": "kerowlan-es-lz001",
+        "Children": null
+      }
+    }
+  }
+}
